@@ -7,9 +7,9 @@
 
 ---
 
-I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and Rinforcement Learning and Committed to Lifelong Learning as way of life.
+I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and Rinforcement Learning. As a person who really believes that "the only constant is change", I am Committed to Lifelong Learning as way of life.
 
-I have hands on experience in Machine Learning, ETL in Big Data, Spark programing, deployment on IaaS like Azure. Solid Programming expertise in Python.
+I have hands on experience in Machine Learning, ETL in Big Data, Spark programing, deployment on IaaS like Azure. Solid Programming expertise in Python an SQL.
 
 Technologies that I have experience on :
 
@@ -23,7 +23,7 @@ Technologies that I have experience on :
 - Database
 
 I am usually reading books to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now. In my Github are usually
-the Repository of the books taht I m current reading as well as my Personal Projekts 
+the Repository of the books taht I m current reading as well as my Personal Projects.
 
 
 ---
