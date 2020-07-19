@@ -22,9 +22,9 @@ Technologies that I have experience on :
 - NoSQL 
 - Database
 
-I am usually reading books to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now. In my Github are usually
-the Repository of the books taht I m current reading as well as my Personal Projects.
-
+I try to dedicate 1/3 of my time to learn some theoreticall concepts, 1/3 of my time to programing some academical/curse proyects, and 1/3 of my time to my personal proyects.
+In my Github are usually the Repository of the books or Curses that I m currently reading/doing as well as my Personal Projects. 
+ 
 
 ---
 
