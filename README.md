@@ -1,6 +1,8 @@
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=Enrique1987.visitor-badge">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Enrique1987.Enrique1987&title=profile%20views)
+
 <p/>
  
 ### Hi! I am *Enrique Benito Casado*.
