@@ -13,7 +13,7 @@ I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and
 
 I have hands on experience in Machine Learning, ETL in Big Data, Spark programing, deployment on IaaS like Azure. Solid Programming expertise in Python an SQL.
 
-Technologies that I have experience on :
+Technologies in which I specialise :
 
 
 - Python
@@ -22,7 +22,6 @@ Technologies that I have experience on :
 - ETL 
 - T-SQL
 - NoSQL 
-- Database
 
 I am usually reading books to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now. In my Github are usually
 the Repository of the books taht I m current reading as well as my Personal Projects.
