@@ -11,7 +11,8 @@
 
 I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and Time Series. As a person who really believes that "the only constant is change", I am Committed to Lifelong Learning as way of life.
 
-I have hands on experience in Machine Learning, ETL in Big Data, Spark programing, deployment on IaaS like Azure. Solid Programming expertise in Python an SQL.
+I have hands on experience in Machine Learning, ETL in Big Data, Spark programing, deployment on IaaS like Azure.  
+Three of my favorite things are: Python, Data and Machine Learning.
 
 Technologies in which I specialise :
 
