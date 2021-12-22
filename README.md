@@ -9,9 +9,8 @@
 
 ---
 
-I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and Time Series. As a person who really believes that "the only constant is change", I am Committed to Lifelong Learning as way of life.
+I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and Time Series. Keep learning cause "the only constant is change".
 
-I have hands on experience in Machine Learning, ETL in Big Data, Spark programing, deployment on IaaS like Azure.  
 Three of my favorite things are: Python, Data and Machine Learning.
 
 Technologies in which I specialise :
@@ -24,8 +23,7 @@ Technologies in which I specialise :
 - T-SQL
 - NoSQL 
 
-I am usually reading books to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now. In my Github are usually
-the Repository of the books taht I m current reading as well as my Personal Projects.
+My Github is the Repository of the books taht I m current reading as well as my Personal Projects.
 
 
 ---
