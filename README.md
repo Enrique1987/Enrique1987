@@ -9,7 +9,7 @@
 
 ---
 
-I'm a Data Engineer and Machine Learning Engineer specialized in Forecasting and Time Series. Keep learning cause "the only constant is change".
+I'm a Machine Learning Engineer specialized in Forecasting and Time Series. Keep learning cause "The only constant is change".
 
 Three of my favorite things are: Python, Data and Machine Learning.
 
