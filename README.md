@@ -9,21 +9,27 @@
 
 ---
 
-I'm a Machine Learning Engineer specialized in Forecasting and Time Series. Keep learning cause "The only constant is change".
+
+I'm a Machine Learning Engineer specialized in classification problems and Time Series.
 
 Three of my favorite things are: Python, Data and Machine Learning.
 
 Technologies in which I specialise :
 
-
 - Python
 - Machine Learning
-- Deep Reinforcement Learning
-- ETL 
-- T-SQL
-- NoSQL 
+- Neuronal Networks
+- Big Data - Spark 
+- T-SQL/NoSQL/ETL
 
 My Github is the Repository of the books taht I m current reading as well as my Personal Projects.
+
+#### current philosophy:
+ - To know something about everything, and to know everything about something. 
+ - Talk is cheap, show me the code
+ - 80/20
+ - Think big, start small, move fast.
+ - Be a good person
 
 
 ---
