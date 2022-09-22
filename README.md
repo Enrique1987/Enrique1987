@@ -22,7 +22,7 @@ Technologies in which I specialise :
 - Big Data - Spark 
 - T-SQL/NoSQL/ETL
 
-My Github is the Repository of the books taht I m current reading as well as my Personal Projects.
+My Github is the Repository of the books that I m current reading as well as my Personal Projects.
 
 #### current philosophy:
  - Be a good person.
