@@ -29,7 +29,8 @@ My Github is the Repository of the books that I m current reading as well as my 
  - To know something about everything, and to know everything about something. 
  - Talk is cheap, show me the code.
  - 80/20.
- - Think big, start small, move fast.
+ - Think big, start small.
+ - Automate the Boring Stuff(probably with Python)
  - stoicism.
  
 
