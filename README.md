@@ -10,7 +10,7 @@
 ---
 
 
-I'm a Machine Learning Engineer specialized in classification problems and Time Series.
+I'm a Machine Learning Engineer specialized in classification problems, Time Series, and process automation.
 
 Three of my favorite things are: Python, Data and Machine Learning.
 
