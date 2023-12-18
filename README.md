@@ -18,7 +18,7 @@ Technologies in which I specialise :
 
 - Python
 - Machine Learning
-- Neuronal Networks
+- GenAI
 - Big Data - Spark 
 - T-SQL/NoSQL/ETL
 
