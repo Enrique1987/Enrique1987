@@ -10,7 +10,7 @@
 ---
 
 I currently work as a Data Solution Architect, since 2011 I am involved in data related projects, occupying different positions, mainly as Data Engineer and ML Engineer.
-From each project I always try to learn things and I belive in lifelong learning.
+I belive in lifelong learning.
 
 Three of my favorite things are: Data, Python and Machine Learning.
 
