@@ -9,17 +9,17 @@
 
 ---
 
+I currently work as a Data Solution Architect, since 2011 I am involved in data related projects, occupying different positions, mainly as Data Engineer and ML Engineer.
+From each project I always try to learn things and I belive in lifelong learning.
 
-I'm a Machine Learning Engineer specialized in classification problems, Time Series, and process automation.
-
-Three of my favorite things are: Python, Data and Machine Learning.
+Three of my favorite things are: Data, Python and Machine Learning.
 
 Technologies in which I specialise :
 
+- Data Engineer Stuff
 - Python
 - Machine Learning
 - GenAI
-- Big Data - Spark 
 - T-SQL/NoSQL/ETL
 
 My Github is the Repository of the books that I m current reading as well as my Personal Projects.
