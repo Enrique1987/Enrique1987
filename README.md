@@ -11,8 +11,7 @@
 
 I m computer engineer currently working as a **Data Solution Architect**, since 2011 I am involved in data related projects, occupying different positions, mainly as Data Engineer and ML Engineer.
 
-Three of my favorite things are: Data, Python and Machine Learning. In my github I'm taking notes of what I'm learning in my professional life as well as what I learn in courses and videos, these are my notes but if someone else can use them I'm glad.
-
+Three of my favorite things are: `Data`, `Python` and `Machine Learning`.
 Technologies in which I specialise :
 
 - Data Engineer Stuff
@@ -21,7 +20,8 @@ Technologies in which I specialise :
 - GenAI
 - T-SQL/NoSQL/ETL
 
-My Github is the Repository of the books that I m current reading as well as my Personal Projects.
+ In my github I'm taking notes of what I'm learning in my professional life as well as what I learn in courses and videos, these are my notes but if someone else can use them I'm glad.
+
 
 #### current philosophy:
  - Be a good person.
@@ -29,8 +29,9 @@ My Github is the Repository of the books that I m current reading as well as my 
  - Talk is cheap, show me the code.
  - 80/20.
  - Think big, start small.
- - Automate the Boring Stuff(probably with Python)
- - stoicism.
+ - Automate the Boring Stuff(probably with Python and chatgpt).
+ - Stoicism.
+ - Feminism.
  
 
 
