@@ -11,7 +11,7 @@
 
 I m computer engineer currently working as a **Data Solution Architect**, since 2011 I am involved in data related projects, occupying different positions, mainly as Data Engineer and ML Engineer.
 
-Three of my favorite things are: Data, Python and Machine Learning.
+Three of my favorite things are: Data, Python and Machine Learning. In my github I'm taking notes of what I'm learning in my professional life as well as what I learn in courses and videos, these are my notes but if someone else can use them I'm glad.
 
 Technologies in which I specialise :
 
