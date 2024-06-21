@@ -9,7 +9,7 @@
 
 ---
 
-I m computer engineer currently working as a **Data Solution Architect**.  
+I m computer engineer currently working as a **Data Engineer & Solution Architect**.  
 Since 2011 I am involved in data related projects, occupying different positions, mainly as Data Engineer and ML Engineer, currently my focus is on data architectures.
 
 Three of my favorite things are: `Data`, `Python` and `Machine Learning`.
