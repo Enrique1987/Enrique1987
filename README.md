@@ -33,6 +33,7 @@ Technologies in which I specialise :
  - Automate the Boring Stuff(probably with Python and chatgpt).
  - Stoicism.
  - Feminism.
+ - 4s Strong, Stretching, Sparring, Strategy
  
 
 
