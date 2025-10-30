@@ -10,7 +10,7 @@
 ---
 
 I m computer engineer currently working as a **Data & AI Solution Architect**.  
-Since 2011 I am involved in data related projects, occupying different positions, mainly as Data Engineer and ML Engineer, currently my focus is on data architectures.
+Since 2011 I am involved in **data** related projects, occupying different positions, mainly as Data Engineer and ML Engineer, currently my focus is on data architectures.
 
 Three of my favorite things are: `Data`, `Python` and `Machine Learning`.
 Technologies in which I specialise :
@@ -33,7 +33,7 @@ Technologies in which I specialise :
  - Automate the Boring Stuff(probably with Python and chatgpt).
  - Stoicism.
  - Feminism.
- - 4s Strong, Stretching, Sparring, Strategy
+ - 4s Strong, Stretching, Sparring, Strategy.
  
 
 
