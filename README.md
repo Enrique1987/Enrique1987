@@ -27,7 +27,6 @@ Technologies in which I specialise :
 #### current philosophy:
  - Be a good person.
  - To know something about everything, and to know everything about something. 
- - Talk is cheap, show me the code.
  - 80/20.
  - Think big, start small.
  - Automate the Boring Stuff(probably with Python and chatgpt).
