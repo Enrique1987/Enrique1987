@@ -29,7 +29,6 @@ Technologies in which I specialise :
  - To know something about everything, and to know everything about something. 
  - 80/20.
  - Think big, start small.
- - Automate the Boring Stuff(probably with Python and chatgpt).
  - Stoicism.
  - Feminism.
  - 4s Strong, Stretching, Sparring, Strategy.
