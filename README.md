@@ -5,44 +5,45 @@
 
 <p/>
  
-### Hi! I am *Enrique Benito Casado*.
+### Hi, I'm Enrique Benito Casado
+
+I'm a **Computer Engineer and Data & AI Solution Architect** with a background spanning **Data Engineering, Machine Learning and Data Architecture**.
+
+I've been working with data since **2011**, moving from traditional BI and ETL systems to modern data platforms, distributed processing, Machine Learning and, increasingly, **Data & AI architecture**.
+
+My main areas of interest and expertise include:
+
+* Data Architecture & Data Modeling
+* Data Engineering
+* Databricks & Lakehouse architectures
+* Python & SQL
+* Machine Learning & AI
+* Distributed Data Processing
+
+### What is this GitHub?
+
+I use GitHub as my **technical second brain**.
+
+Most repositories contain notes, examples, experiments and concepts that I collect while working, studying, reading or exploring new technologies.
+
+They are primarily my personal knowledge base, but if something here helps someone else, even better.
+
+### Current philosophy & principles
+
+Technical skills matter, but character matters too. These are some of the principles and values I try to apply.
+
+* **Be a good person.**
+* **Know something about everything, and everything about something.**
+* **80/20.**
+* **Think big, start small.**
+* **Stoicism.**
+* **Feminism.**
 
 ---
 
-I m computer engineer currently working as a **Data & AI Solution Architect**.  
-Since 2011 I am involved in **data** related projects, occupying different positions, mainly as Data Engineer and ML Engineer, currently my focus is on data architectures.
+### Find me elsewhere
 
-Three of my favorite things are: `Data`, `Python` and `Machine Learning`.
-Technologies in which I specialise :
+[LinkedIn](https://www.linkedin.com/in/enriquebenito1987) · [Stack Overflow](https://stackoverflow.com/users/3844270/enrique-benito-casado) · [Portfolio](https://Enrique1987.github.io)
 
-- Data Engineer Stuff
-- Python
-- Machine Learning
-- GenAI
-- T-SQL/NoSQL/ETL
+📫 **Contact:** [enrique.cristian@benitocasado.com](mailto:enrique.cristian@benitocasado.com)
 
- In my github I'm taking notes of what I'm learning in my professional life as well as what I learn in courses and videos, these are my notes but if someone else can use them I'm glad.
-
-
-#### current philosophy:
- - Be a good person.
- - To know something about everything, and to know everything about something. 
- - 80/20.
- - Think big, start small.
- - Stoicism.
- - Feminism.
- - 4s Strong, Stretching, Sparring, Strategy.
- 
-
-
----
-
-<h2 style="text-align:center">Social Profiles</h2>
-
-[E-Portfolio](https://Enrique1987.github.io) | [LinkedIn](https://www.linkedin.com/in/enriquebenito1987) | [stackoverflow](https://stackoverflow.com/users/3844270/enrique-benito-casado)
-
-
-Browse through my Github repositories for more.
-
- 
- Reach me at [enrique.cristian@benitocasado.com](enrique.cristian@benitocasado.com)
