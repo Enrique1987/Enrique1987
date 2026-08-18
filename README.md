@@ -1,49 +1,63 @@
+# Enrique Benito Casado
 
-<p align='center'>
+**Computer Engineer · Data & AI Solution Architect · Databricks Certified Data Engineer Professional**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Enrique1987.Enrique1987&title=profile%20views)
+I have worked with data since 2011, from traditional BI and ETL systems to distributed processing, Machine Learning, Lakehouse platforms and Data & AI architecture.
 
-<p/>
- 
-### Hi, I'm Enrique Benito Casado
+This GitHub is my **technical second brain**: a public, evolving knowledge base made of reviewed guides, architecture decisions, practical projects, study notes and experiments.
 
-I'm a **Computer Engineer and Data & AI Solution Architect** with a background spanning **Data Engineering, Machine Learning and Data Architecture**.
+## Start here
 
-I've been working with data since **2011**, moving from traditional BI and ETL systems to modern data platforms, distributed processing, Machine Learning and, increasingly, **Data & AI architecture**.
+| Destination | Why visit it? |
+| --- | --- |
+| [Databricks Engineering Portfolio](https://github.com/Enrique1987/databricks) | My main curated portfolio: Lakehouse engineering, governed ingestion, architecture decisions and a Professional-level knowledge hub. |
+| [Data Solution Architect](https://github.com/Enrique1987/data_solution_architect) | Notes and references about data architecture, modelling and platform design. |
+| [Master Thesis](https://github.com/Enrique1987/master_thesis) | An end-to-end Big Data architecture and research project, including pipeline monitoring and financial-market data. |
 
-My main areas of interest and expertise include:
+## Current focus
 
-* Data Architecture & Data Modeling
-* Data Engineering
-* Databricks & Lakehouse architectures
-* Python & SQL
-* Machine Learning & AI
-* Distributed Data Processing
+- Deepening the engineering and architecture knowledge expected of a **Databricks Champion**.
+- Designing production-grade data platforms around governance, reliability, observability and cost.
+- Turning years of accumulated notes into clear, source-aware and reproducible technical material.
+- Connecting Data Engineering and architecture with Machine Learning, GenAI and AI Engineering.
 
-### What is this GitHub?
+## Knowledge map
 
-I use GitHub as my **technical second brain**.
+| Area | Repository | What you will find | Status |
+| --- | --- | --- | --- |
+| Databricks & Lakehouse | [databricks](https://github.com/Enrique1987/databricks) | Engineering portfolio, Professional-level notes, architecture decisions and implementation patterns | **Active** · core paths reviewed |
+| Data Architecture | [data_solution_architect](https://github.com/Enrique1987/data_solution_architect) | Architecture, modelling and solution-design notes | **Active** · review in progress |
+| Data Engineering | [data-engineering](https://github.com/Enrique1987/data-engineering) | SQL, NoSQL, ETL and distributed data-processing material collected over several years | **Legacy** · being reorganized |
+| GenAI | [GenAI](https://github.com/Enrique1987/GenAI) | LLM, RAG, preprocessing, course notes and experiments | **Draft** · active learning |
+| Machine Learning | [machine-learning](https://github.com/Enrique1987/machine-learning) | ML foundations, experiments and interview notes | **Legacy** · review pending |
+| Applied Research | [master_thesis](https://github.com/Enrique1987/master_thesis) | Big Data architecture, monitoring and a financial data pipeline | **Active** · research project |
 
-Most repositories contain notes, examples, experiments and concepts that I collect while working, studying, reading or exploring new technologies.
+### What the status labels mean
 
-They are primarily my personal knowledge base, but if something here helps someone else, even better.
+- **Reviewed** — current, structured and checked against its stated sources.
+- **Active** — useful now and being improved regularly.
+- **Draft** — exploratory or incomplete; not yet presented as authoritative.
+- **Legacy** — older material kept for its value, pending rewrite, consolidation or archival.
 
-### Current philosophy & principles
+## How to use this GitHub
 
-Technical skills matter, but character matters too. These are some of the principles and values I try to apply.
+- For my strongest current Databricks work, begin with the **Databricks Engineering Portfolio**.
+- For architectural thinking, continue with **Data Solution Architect** and the **Master Thesis**.
+- Treat repositories marked **Draft** or **Legacy** as working memory: useful context, not finished documentation.
 
-* **Be a good person.**
-* **Know something about everything, and everything about something.**
-* **80/20.**
-* **Think big, start small.**
-* **Stoicism.**
-* **Feminism.**
+The goal is progressive improvement rather than pretending that every old note is complete. Material moves from raw learning to structured notes, then to reviewed guides or reproducible projects.
 
----
+## Principles
 
-### Find me elsewhere
+- **Be a good person.**
+- **Know something about everything, and everything about something.**
+- **80/20.**
+- **Think big, start small.**
+- **Stoicism.**
+- **Feminism.**
+
+## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/enriquebenito1987) · [Stack Overflow](https://stackoverflow.com/users/3844270/enrique-benito-casado) · [Portfolio](https://Enrique1987.github.io)
 
-📫 **Contact:** [enrique.cristian@benitocasado.com](mailto:enrique.cristian@benitocasado.com)
-
+**Contact:** [enrique.cristian@benitocasado.com](mailto:enrique.cristian@benitocasado.com)
