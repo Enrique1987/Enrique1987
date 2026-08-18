@@ -1,6 +1,6 @@
 # Enrique Benito Casado
 
-**Computer Engineer · Data & AI Solution Architect · Databricks Certified Data Engineer Professional**
+**Computer Engineer · Data & AI Solution Architect**
 
 I have worked with data since 2011, from traditional BI and ETL systems to distributed processing, Machine Learning, Lakehouse platforms and Data & AI architecture.
 
