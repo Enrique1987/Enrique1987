@@ -1,63 +1,51 @@
 # Enrique Benito Casado
 
-**Computer Engineer · Data & AI Solution Architect**
+**Data & AI Solution Architect**
 
-I have worked with data since 2011, from traditional BI and ETL systems to distributed processing, Machine Learning, Lakehouse platforms and Data & AI architecture.
+Databricks · Lakehouse Engineering · Data Modeling · Platform Architecture
 
-This GitHub is my **technical second brain**: a public, evolving knowledge base made of reviewed guides, architecture decisions, practical projects, study notes and experiments.
+I have worked with data since 2011, from BI and ETL to distributed processing, Machine Learning, and Data & AI architecture. My current focus is building reliable, governed data platforms with Databricks.
 
-## Start here
+[Explore Databricks](https://github.com/Enrique1987/databricks) · [Browse my knowledge map](KNOWLEDGE_MAP.md) · [LinkedIn](https://www.linkedin.com/in/enriquebenito1987)
 
-| Destination | Why visit it? |
-| --- | --- |
-| [Databricks Engineering Portfolio](https://github.com/Enrique1987/databricks) | My main curated portfolio: Lakehouse engineering, governed ingestion, architecture decisions and a Professional-level knowledge hub. |
-| [Data Solution Architect](https://github.com/Enrique1987/data_solution_architect) | Notes and references about data architecture, modelling and platform design. |
-| [Master Thesis](https://github.com/Enrique1987/master_thesis) | An end-to-end Big Data architecture and research project, including pipeline monitoring and financial-market data. |
+## Selected work
 
-## Current focus
+### Governed ingestion with Auto Loader
 
-- Deepening the engineering and architecture knowledge expected of a **Databricks Champion**.
-- Designing production-grade data platforms around governance, reliability, observability and cost.
-- Turning years of accumulated notes into clear, source-aware and reproducible technical material.
-- Connecting Data Engineering and architecture with Machine Learning, GenAI and AI Engineering.
+A Python package for ingesting immutable files into Unity Catalog, with explicit schema handling, checkpoint state, source metadata, and development and production configurations.
 
-## Knowledge map
+**Status:** local implementation and tests available; Databricks workspace execution pending.
 
-| Area | Repository | What you will find | Status |
-| --- | --- | --- | --- |
-| Databricks & Lakehouse | [databricks](https://github.com/Enrique1987/databricks) | Engineering portfolio, Professional-level notes, architecture decisions and implementation patterns | **Active** · core paths reviewed |
-| Data Architecture | [data_solution_architect](https://github.com/Enrique1987/data_solution_architect) | Architecture, modelling and solution-design notes | **Active** · review in progress |
-| Data Engineering | [data-engineering](https://github.com/Enrique1987/data-engineering) | SQL, NoSQL, ETL and distributed data-processing material collected over several years | **Legacy** · being reorganized |
-| GenAI | [GenAI](https://github.com/Enrique1987/GenAI) | LLM, RAG, preprocessing, course notes and experiments | **Draft** · active learning |
-| Machine Learning | [machine-learning](https://github.com/Enrique1987/machine-learning) | ML foundations, experiments and interview notes | **Legacy** · review pending |
-| Applied Research | [master_thesis](https://github.com/Enrique1987/master_thesis) | Big Data architecture, monitoring and a financial data pipeline | **Active** · research project |
+[Explore the project](https://github.com/Enrique1987/databricks/tree/main/projects/governed-ingestion)
 
-### What the status labels mean
+### Architecture decisions and data modeling
 
-- **Reviewed** — current, structured and checked against its stated sources.
-- **Active** — useful now and being improved regularly.
-- **Draft** — exploratory or incomplete; not yet presented as authoritative.
-- **Legacy** — older material kept for its value, pending rewrite, consolidation or archival.
+How I approach compute selection, environment isolation, platform trade-offs, and dimensional modeling.
 
-## How to use this GitHub
+[Read a compute decision](https://github.com/Enrique1987/databricks/blob/main/docs/architecture/adr-001-compute-strategy.md) · [Browse architecture notes](https://github.com/Enrique1987/data_solution_architect/tree/main/docs)
 
-- For my strongest current Databricks work, begin with the **Databricks Engineering Portfolio**.
-- For architectural thinking, continue with **Data Solution Architect** and the **Master Thesis**.
-- Treat repositories marked **Draft** or **Legacy** as working memory: useful context, not finished documentation.
+### Big Data architecture thesis
 
-The goal is progressive improvement rather than pretending that every old note is complete. Material moves from raw learning to structured notes, then to reviewed guides or reproducible projects.
+My 2019 academic proof of concept connects financial-news ingestion, Kafka, distributed storage, and operational monitoring. The repository preserves the thesis and a proposed continuation for 2026.
 
-## Principles
+[Read the thesis](https://github.com/Enrique1987/master_thesis)
 
-- **Be a good person.**
-- **Know something about everything, and everything about something.**
-- **80/20.**
-- **Think big, start small.**
-- **Stoicism.**
-- **Feminism.**
+## A working second brain
 
-## Elsewhere
+This GitHub also holds my learning notes, experiments, reading, and personal reflections. Some pages are reviewed references; others are drafts or historical material. Their status belongs alongside the content.
 
-[LinkedIn](https://www.linkedin.com/in/enriquebenito1987) · [Stack Overflow](https://stackoverflow.com/users/3844270/enrique-benito-casado) · [Portfolio](https://Enrique1987.github.io)
+[Technical and personal knowledge map](KNOWLEDGE_MAP.md) · [Life beyond technology](https://github.com/Enrique1987/no_technical_stuff)
 
-**Contact:** [enrique.cristian@benitocasado.com](mailto:enrique.cristian@benitocasado.com)
+<details>
+<summary>Principles I return to</summary>
+
+- Be a good person.
+- Know something about everything, and everything about something.
+- 80/20.
+- Think big, start small.
+- Stoicism.
+- Feminism.
+
+</details>
+
+[Portfolio](https://Enrique1987.github.io) · [Stack Overflow](https://stackoverflow.com/users/3844270/enrique-benito-casado) · [Contact](mailto:enrique.cristian@benitocasado.com)
