@@ -6,17 +6,20 @@ Databricks · Lakehouse Engineering · Data Modeling · Platform Architecture
 
 I have worked with data since 2011, from BI and ETL to distributed processing, Machine Learning, and Data & AI architecture. My current focus is building reliable, governed data platforms with Databricks.
 
-[Explore Databricks](https://github.com/Enrique1987/databricks) · [Browse my knowledge map](KNOWLEDGE_MAP.md) · [LinkedIn](https://www.linkedin.com/in/enriquebenito1987)
+[Explore my work](#professional-highlight) · [Browse my knowledge map](KNOWLEDGE_MAP.md) · [LinkedIn](https://www.linkedin.com/in/enriquebenito1987)
 
-## Selected work
+## Professional highlight
 
-### Governed ingestion with Auto Loader
+### Data lakehouse construction and evolution | October 2025–present
 
-A Python package for ingesting immutable files into Unity Catalog, with explicit schema handling, checkpoint state, source metadata, and development and production configurations.
+Since October 2025, I have been working on the construction and evolution of a data lakehouse, leading the implementation of engineering best practices and code refactoring while incorporating new data use cases.
 
-**Status:** local implementation and tests available; Databricks workspace execution pending.
+My main contributions focus on two areas:
 
-[Explore the project](https://github.com/Enrique1987/databricks/tree/main/projects/governed-ingestion)
+- **Shared data processing framework:** replaced manually triggered, table-specific jobs and notebooks with common data loading logic, extending the approach to Bronze-to-Silver processing where transformations allowed it.
+- **Hub-and-spoke architecture:** redefining the lakehouse to reuse shared data across projects, reduce duplication from separate project schemas, and support the addition of new use cases.
+
+## Architecture notes and research
 
 ### Architecture decisions and data modeling
 
