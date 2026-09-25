@@ -2,42 +2,34 @@
 
 **Data & AI Solution Architect**
 
-Databricks · Lakehouse Engineering · Data Modeling · Platform Architecture
+Data Engineering · Lakehouse Architecture · Applied Machine Learning
 
-I have worked with data since 2011, from BI and ETL to distributed processing, Machine Learning, and Data & AI architecture. My current focus is building reliable, governed data platforms with Databricks.
+I turn business needs into data platforms and practical analytical solutions. Since 2011, my work has spanned BI, data warehousing, cloud engineering, forecasting, and applied machine learning. Today, I focus on lakehouse architecture and engineering with Databricks.
 
-[Explore my work](#professional-highlight) · [Browse my knowledge map](KNOWLEDGE_MAP.md) · [LinkedIn](https://www.linkedin.com/in/enriquebenito1987)
+I combine architecture decisions with hands-on implementation: understanding the problem, refactoring the code, and building shared foundations that other projects can reuse. I value clear data models, maintainable systems, and a solid understanding of the fundamentals.
 
-## Professional highlight
+[Selected projects](#selected-projects) · [Knowledge map](KNOWLEDGE_MAP.md) · [LinkedIn](https://www.linkedin.com/in/enriquebenito1987)
 
-### Data lakehouse construction and evolution | October 2025–present
+## Selected projects
 
-Since October 2025, I have been working on the construction and evolution of a data lakehouse, leading the implementation of engineering best practices and code refactoring while incorporating new data use cases.
+A selection from my professional work across platform engineering, machine learning, and analytics:
 
-My main contributions focus on two areas:
+- **[Current project — Data lakehouse](PROJECTS.md#current-project--data-lakehouse) (October 2025–present):** leading code refactoring and engineering best practices, with shared processing frameworks and a transition to hub-and-spoke architecture.
+- **[ML migration — Baggage connection risk](PROJECTS.md#ml-migration--baggage-connection-risk):** migrated an existing prediction solution to Azure Databricks, refactoring the code and validating model behavior.
+- **[Forecasting — Airport passenger volumes](PROJECTS.md#forecasting--airport-passenger-volumes):** built data pipelines and time-series forecasts to support route planning and capacity decisions.
+- **[Data warehousing — Banking risk](PROJECTS.md#data-warehousing--banking-risk):** developed ETL processes, tuned queries, and orchestrated pipelines for a risk data warehouse.
 
-- **Shared data processing framework:** replaced manually triggered, table-specific jobs and notebooks with common data loading logic, extending the approach to Bronze-to-Silver processing where transformations allowed it.
-- **Hub-and-spoke architecture:** redefining the lakehouse to reuse shared data across projects, reduce duplication from separate project schemas, and support the addition of new use cases.
+[Read the project summaries](PROJECTS.md)
 
-## Architecture notes and research
+## How I learn and work
 
-### Architecture decisions and data modeling
+Curiosity and lifelong learning are central to how I work. This GitHub is my second brain: a place to connect what I learn, document decisions, and revisit ideas through notes and experiments. You'll find both reviewed references and work in progress, with their status alongside the content.
 
-How I approach compute selection, environment isolation, platform trade-offs, and dimensional modeling.
+[Databricks engineering](https://github.com/Enrique1987/databricks) · [Architecture notes](https://github.com/Enrique1987/data_solution_architect/tree/main/docs) · [Big Data thesis](https://github.com/Enrique1987/master_thesis)
 
-[Read a compute decision](https://github.com/Enrique1987/databricks/blob/main/docs/architecture/adr-001-compute-strategy.md) · [Browse architecture notes](https://github.com/Enrique1987/data_solution_architect/tree/main/docs)
+Outside technology, I explore languages, martial arts, books, and personal reflections. They are part of this space too.
 
-### Big Data architecture thesis
-
-My 2019 academic proof of concept connects financial-news ingestion, Kafka, distributed storage, and operational monitoring. The repository preserves the thesis and a proposed continuation for 2026.
-
-[Read the thesis](https://github.com/Enrique1987/master_thesis)
-
-## A working second brain
-
-This GitHub also holds my learning notes, experiments, reading, and personal reflections. Some pages are reviewed references; others are drafts or historical material. Their status belongs alongside the content.
-
-[Technical and personal knowledge map](KNOWLEDGE_MAP.md) · [Life beyond technology](https://github.com/Enrique1987/no_technical_stuff)
+[Explore my knowledge map](KNOWLEDGE_MAP.md) · [Life beyond technology](https://github.com/Enrique1987/no_technical_stuff)
 
 <details>
 <summary>Principles I return to</summary>
