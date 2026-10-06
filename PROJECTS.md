@@ -8,9 +8,9 @@ These summaries describe my responsibilities and the problems I worked on across
 
 **October 2025–present**
 
-I am working on the construction and evolution of a data lakehouse, leading engineering best practices and code refactoring while incorporating new data use cases.
+I am working on the construction and evolution of a Databricks lakehouse, shaping its platform architecture and supporting Data Engineering processes as new data use cases are incorporated.
 
-The initial loading process used a separate job and notebook for each table or data object. I refactored this approach into a common loading framework and extended shared processing to Bronze-to-Silver transformations where their requirements allowed it. The purpose is to reuse improvements across projects and simplify onboarding new data objects.
+The initial loading process used a separate job and notebook for each table or data object. I replaced this approach with a common ingestion framework and extended shared processing to Bronze-to-Silver PySpark transformations where their requirements allowed it. The purpose is to reuse improvements across projects and simplify onboarding new data objects.
 
 I am also redefining the architecture around hub-and-spoke. Separate schemas for each project had led to duplicated data; the redesign aims to establish shared data foundations that multiple use cases can reuse.
 
@@ -20,7 +20,7 @@ I am also redefining the architecture around hub-and-spoke. Separate schemas for
 
 The existing solution predicted whether passengers would miss their connections, supporting baggage handling decisions. My responsibility was to migrate the model implementation from an on-premise environment to Azure Databricks.
 
-I refactored the Python codebase, reimplemented classification logic using XGBoost, and validated model behavior after migration. I worked with platform engineers responsible for integration into operational systems.
+I adapted the Python implementation for Azure Databricks, reimplemented classification logic using XGBoost, and validated model behavior after migration. I worked with platform engineers responsible for integration into operational systems.
 
 ## Forecasting — Airport Passenger Volumes
 

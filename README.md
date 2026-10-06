@@ -6,7 +6,7 @@ Data Engineering · Lakehouse Architecture · Applied Machine Learning
 
 I turn business needs into data platforms and practical analytical solutions. Since 2011, my work has spanned BI, data warehousing, cloud engineering, forecasting, and applied machine learning. Today, I focus on lakehouse architecture and engineering with Databricks.
 
-I combine architecture decisions with hands-on implementation: understanding the problem, refactoring the code, and building shared foundations that other projects can reuse. I value clear data models, maintainable systems, and a solid understanding of the fundamentals.
+I connect data platform architecture with Data Engineering delivery: understanding business needs, defining clear data models, and building shared foundations that other projects can reuse. I value reliable platforms and a solid understanding of the fundamentals.
 
 [Selected projects](#selected-projects) · [Knowledge map](KNOWLEDGE_MAP.md) · [LinkedIn](https://www.linkedin.com/in/enriquebenito1987)
 
@@ -14,8 +14,8 @@ I combine architecture decisions with hands-on implementation: understanding the
 
 A selection from my professional work across platform engineering, machine learning, and analytics:
 
-- **[Current project — Data lakehouse](PROJECTS.md#current-project--data-lakehouse) (October 2025–present):** leading code refactoring and engineering best practices, with shared processing frameworks and a transition to hub-and-spoke architecture.
-- **[ML migration — Baggage connection risk](PROJECTS.md#ml-migration--baggage-connection-risk):** migrated an existing prediction solution to Azure Databricks, refactoring the code and validating model behavior.
+- **[Current project — Data lakehouse](PROJECTS.md#current-project--data-lakehouse) (October 2025–present):** shaping lakehouse platform architecture around hub-and-spoke, with shared ingestion and PySpark transformations to support Data Engineering.
+- **[ML migration — Baggage connection risk](PROJECTS.md#ml-migration--baggage-connection-risk):** migrated an existing prediction solution to Azure Databricks and validated model behavior.
 - **[Forecasting — Airport passenger volumes](PROJECTS.md#forecasting--airport-passenger-volumes):** built data pipelines and time-series forecasts to support route planning and capacity decisions.
 - **[Data warehousing — Banking risk](PROJECTS.md#data-warehousing--banking-risk):** developed ETL processes, tuned queries, and orchestrated pipelines for a risk data warehouse.
 
