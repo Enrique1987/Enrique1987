@@ -14,8 +14,8 @@ I connect data platform architecture with Data Engineering delivery: understandi
 
 A selection from my professional work across platform engineering, machine learning, and analytics:
 
-- **[Current project — Data lakehouse](PROJECTS.md#current-project--data-lakehouse) (October 2025–present):** shaping lakehouse platform architecture around hub-and-spoke, with shared ingestion and PySpark transformations to support Data Engineering.
-- **[ML migration — Baggage connection risk](PROJECTS.md#ml-migration--baggage-connection-risk):** migrated an existing prediction solution to Azure Databricks and validated model behavior.
+- **[Current project — Data lakehouse](PROJECTS.md#current-project--data-lakehouse) (October 2025–present):** designing and evolving lakehouse platform architecture, moving toward hub-and-spoke, and supporting Data Engineering projects.
+- **[ML migration — Baggage connection risk](PROJECTS.md#ml-migration--baggage-connection-risk):** migrated an existing prediction solution to Azure Databricks, refactoring the code and validating model behavior.
 - **[Forecasting — Airport passenger volumes](PROJECTS.md#forecasting--airport-passenger-volumes):** built data pipelines and time-series forecasts to support route planning and capacity decisions.
 - **[Data warehousing — Banking risk](PROJECTS.md#data-warehousing--banking-risk):** developed ETL processes, tuned queries, and orchestrated pipelines for a risk data warehouse.
 
