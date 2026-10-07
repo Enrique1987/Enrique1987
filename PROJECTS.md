@@ -8,9 +8,9 @@ These summaries describe my responsibilities and the problems I worked on across
 
 **October 2025–present**
 
-I am working on the construction and evolution of a data lakehouse, leading engineering best practices and code refactoring while incorporating new data use cases.
+I am working on the construction and evolution of a Databricks lakehouse, designing its platform architecture and supporting Data Engineering projects as new data use cases are incorporated.
 
-The initial loading process used a separate job and notebook for each table or data object. I refactored this approach into a common loading framework and extended shared processing to Bronze-to-Silver transformations where their requirements allowed it. The purpose is to reuse improvements across projects and simplify onboarding new data objects.
+My focus is on shared data foundations and reusable platform capabilities that help projects adopt new data use cases consistently.
 
 I am also redefining the architecture around hub-and-spoke. Separate schemas for each project had led to duplicated data; the redesign aims to establish shared data foundations that multiple use cases can reuse.
 
