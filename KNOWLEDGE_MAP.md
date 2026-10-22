@@ -29,9 +29,9 @@ An entry point into my technical learning, projects, and life outside technology
 
 [Non-Technical Stuff](https://github.com/Enrique1987/no_technical_stuff) holds language learning, martial arts, food, reading, and reflections.
 
-- [Lessons and reflections](https://github.com/Enrique1987/no_technical_stuff/tree/main/lessons)
-- [Languages](https://github.com/Enrique1987/no_technical_stuff/tree/main/lenguaje)
-- [Martial arts and contact sports](https://github.com/Enrique1987/no_technical_stuff/tree/main/martial-arts_contact-sport)
+- [Lessons and reflections](https://github.com/Enrique1987/no_technical_stuff/tree/main/personal-life/lessons)
+- [Languages](https://github.com/Enrique1987/no_technical_stuff/tree/main/knowledge/languages)
+- [Martial arts and contact sports](https://github.com/Enrique1987/no_technical_stuff/tree/main/sports/martial-arts)
 
 ## Reading status
 
